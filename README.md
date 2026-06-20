@@ -38,9 +38,9 @@ Designed and developed a personal portfolio website showcasing projects, skills,
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/jayaprakash021/
 - GitHub: https://github.com/Jayaprakash7-bit
-- Portfolio: [Your Portfolio URL]
+- Portfolio: https://github.com/Jayaprakash7-bit
 
 ---
 
